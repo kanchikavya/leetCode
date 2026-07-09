@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kanchikavya/leetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/kanchikavya/leetCode/tree/master/0009-palindrome-number) |
 | [2544-alternating-digit-sum](https://github.com/kanchikavya/leetCode/tree/master/2544-alternating-digit-sum) |
 ## Simulation
 |  |
