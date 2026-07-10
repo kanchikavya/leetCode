@@ -34,6 +34,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kanchikavya/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kanchikavya/leetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/kanchikavya/leetCode/tree/master/0050-powx-n) |
 | [2544-alternating-digit-sum](https://github.com/kanchikavya/leetCode/tree/master/2544-alternating-digit-sum) |
 ## Simulation
 |  |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kanchikavya/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kanchikavya/leetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
