@@ -39,6 +39,7 @@
 | [0050-powx-n](https://github.com/kanchikavya/leetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
 | [2544-alternating-digit-sum](https://github.com/kanchikavya/leetCode/tree/master/2544-alternating-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kanchikavya/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kanchikavya/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
