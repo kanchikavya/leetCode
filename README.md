@@ -36,6 +36,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kanchikavya/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kanchikavya/leetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/kanchikavya/leetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/kanchikavya/leetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
 | [2544-alternating-digit-sum](https://github.com/kanchikavya/leetCode/tree/master/2544-alternating-digit-sum) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanchikavya/leetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/kanchikavya/leetCode/tree/master/0012-integer-to-roman) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kanchikavya/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/kanchikavya/leetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
