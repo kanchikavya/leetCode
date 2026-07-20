@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanchikavya/leetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kanchikavya/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -49,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
 ## Depth-First Search
 |  |
@@ -76,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Number Theory
 |  |
