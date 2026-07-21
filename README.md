@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
+| [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kanchikavya/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kanchikavya/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
@@ -71,6 +72,7 @@
 | [0001-two-sum](https://github.com/kanchikavya/leetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/kanchikavya/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kanchikavya/leetCode/tree/master/0013-roman-to-integer) |
+| [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/kanchikavya/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kanchikavya/leetCode/tree/master/0013-roman-to-integer) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
