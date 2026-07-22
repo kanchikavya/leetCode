@@ -91,8 +91,13 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/kanchikavya/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kanchikavya/leetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0020-valid-parentheses) |
 ## Counting
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
