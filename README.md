@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kanchikavya/leetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kanchikavya/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -104,4 +105,12 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/kanchikavya/leetCode/tree/master/0176-second-highest-salary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
