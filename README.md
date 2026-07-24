@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/kanchikavya/leetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
