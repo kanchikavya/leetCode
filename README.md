@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kanchikavya/leetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kanchikavya/leetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kanchikavya/leetCode/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
 ## Depth-First Search
 |  |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kanchikavya/leetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Number Theory
 |  |
