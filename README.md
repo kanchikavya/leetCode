@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/kanchikavya/leetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kanchikavya/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanchikavya/leetCode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
 ## Depth-First Search
 |  |
@@ -86,6 +88,7 @@
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanchikavya/leetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 ## Number Theory
 |  |
 | ------- |
