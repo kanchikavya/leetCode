@@ -99,6 +99,7 @@
 | [0012-integer-to-roman](https://github.com/kanchikavya/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kanchikavya/leetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0032-longest-valid-parentheses) |
 ## Counting
 |  |
@@ -120,6 +121,11 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
