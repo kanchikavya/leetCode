@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0283-move-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanchikavya/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kanchikavya/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/kanchikavya/leetCode/tree/master/1920-build-array-from-permutation) |
