@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanchikavya/leetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/kanchikavya/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanchikavya/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -92,6 +93,7 @@
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanchikavya/leetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanchikavya/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/kanchikavya/leetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanchikavya/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0283-move-zeroes) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kanchikavya/leetCode/tree/master/0042-trapping-rain-water) |
 ## Database
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kanchikavya/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
@@ -138,4 +142,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanchikavya/leetCode/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kanchikavya/leetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
