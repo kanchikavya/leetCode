@@ -15,6 +15,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanchikavya/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0283-move-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
+| [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/kanchikavya/leetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kanchikavya/leetCode/tree/master/1929-concatenation-of-array) |
@@ -51,6 +52,7 @@
 | [0013-roman-to-integer](https://github.com/kanchikavya/leetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kanchikavya/leetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
+| [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
 | [2544-alternating-digit-sum](https://github.com/kanchikavya/leetCode/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kanchikavya/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -85,6 +87,7 @@
 | [0001-two-sum](https://github.com/kanchikavya/leetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/kanchikavya/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kanchikavya/leetCode/tree/master/0013-roman-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
@@ -116,6 +119,7 @@
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 ## Stack
 |  |
