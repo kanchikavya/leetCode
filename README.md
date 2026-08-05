@@ -107,6 +107,7 @@
 | [0042-trapping-rain-water](https://github.com/kanchikavya/leetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanchikavya/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/kanchikavya/leetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0283-move-zeroes) |
 ## Number Theory
 |  |
@@ -120,6 +121,7 @@
 | [0020-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/kanchikavya/leetCode/tree/master/0125-valid-palindrome) |
 ## Counting
 |  |
 | ------- |
