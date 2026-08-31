@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanchikavya/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0283-move-zeroes) |
+| [0713-subarray-product-less-than-k](https://github.com/kanchikavya/leetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanchikavya/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kanchikavya/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -26,6 +27,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/kanchikavya/leetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kanchikavya/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -164,4 +166,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanchikavya/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/kanchikavya/leetCode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/kanchikavya/leetCode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
