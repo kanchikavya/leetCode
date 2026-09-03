@@ -60,6 +60,7 @@
 | [0050-powx-n](https://github.com/kanchikavya/leetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/kanchikavya/leetCode/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/kanchikavya/leetCode/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kanchikavya/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -180,4 +181,5 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kanchikavya/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kanchikavya/leetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2485-find-the-pivot-integer](https://github.com/kanchikavya/leetCode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
