@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanchikavya/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/kanchikavya/leetCode/tree/master/0118-pascals-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanchikavya/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/kanchikavya/leetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -160,6 +161,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kanchikavya/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kanchikavya/leetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/kanchikavya/leetCode/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
