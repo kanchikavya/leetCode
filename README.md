@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanchikavya/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/kanchikavya/leetCode/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/kanchikavya/leetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanchikavya/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/kanchikavya/leetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -60,6 +61,7 @@
 | [0013-roman-to-integer](https://github.com/kanchikavya/leetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kanchikavya/leetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kanchikavya/leetCode/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/kanchikavya/leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/kanchikavya/leetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kanchikavya/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -122,6 +124,7 @@
 | [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanchikavya/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/kanchikavya/leetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/kanchikavya/leetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kanchikavya/leetCode/tree/master/0344-reverse-string) |
 ## Number Theory
