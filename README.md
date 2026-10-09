@@ -109,6 +109,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanchikavya/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
+| [3941-password-strength](https://github.com/kanchikavya/leetCode/tree/master/3941-password-strength) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kanchikavya/leetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kanchikavya/leetCode/tree/master/0344-reverse-string) |
+| [3941-password-strength](https://github.com/kanchikavya/leetCode/tree/master/3941-password-strength) |
 ## Counting
 |  |
 | ------- |
