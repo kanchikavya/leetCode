@@ -142,6 +142,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kanchikavya/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kanchikavya/leetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kanchikavya/leetCode/tree/master/0344-reverse-string) |
+| [2299-strong-password-checker-ii](https://github.com/kanchikavya/leetCode/tree/master/2299-strong-password-checker-ii) |
 | [3941-password-strength](https://github.com/kanchikavya/leetCode/tree/master/3941-password-strength) |
 ## Counting
 |  |
