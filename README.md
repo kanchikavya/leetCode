@@ -66,6 +66,7 @@
 | [0189-rotate-array](https://github.com/kanchikavya/leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kanchikavya/leetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/kanchikavya/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kanchikavya/leetCode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/kanchikavya/leetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kanchikavya/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -104,6 +105,7 @@
 | [0050-powx-n](https://github.com/kanchikavya/leetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kanchikavya/leetCode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kanchikavya/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kanchikavya/leetCode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
