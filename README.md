@@ -16,6 +16,7 @@
 | [0118-pascals-triangle](https://github.com/kanchikavya/leetCode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/kanchikavya/leetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanchikavya/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kanchikavya/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/kanchikavya/leetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kanchikavya/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kanchikavya/leetCode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/kanchikavya/leetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kanchikavya/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
@@ -63,6 +65,7 @@
 | [0060-permutation-sequence](https://github.com/kanchikavya/leetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/kanchikavya/leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kanchikavya/leetCode/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/kanchikavya/leetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kanchikavya/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -82,6 +85,7 @@
 | [0015-3sum](https://github.com/kanchikavya/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kanchikavya/leetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/kanchikavya/leetCode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/kanchikavya/leetCode/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/kanchikavya/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanchikavya/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kanchikavya/leetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -105,6 +109,7 @@
 | [0001-two-sum](https://github.com/kanchikavya/leetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/kanchikavya/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kanchikavya/leetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/kanchikavya/leetCode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kanchikavya/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanchikavya/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -114,6 +119,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kanchikavya/leetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
