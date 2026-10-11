@@ -65,6 +65,7 @@
 | [0060-permutation-sequence](https://github.com/kanchikavya/leetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/kanchikavya/leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/kanchikavya/leetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kanchikavya/leetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kanchikavya/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kanchikavya/leetCode/tree/master/0342-power-of-four) |
@@ -78,6 +79,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kanchikavya/leetCode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/kanchikavya/leetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kanchikavya/leetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kanchikavya/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -142,6 +144,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kanchikavya/leetCode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kanchikavya/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
