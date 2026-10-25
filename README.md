@@ -27,6 +27,7 @@
 | [1470-shuffle-the-array](https://github.com/kanchikavya/leetCode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kanchikavya/leetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/kanchikavya/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/kanchikavya/leetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/kanchikavya/leetCode/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/kanchikavya/leetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kanchikavya/leetCode/tree/master/1929-concatenation-of-array) |
@@ -58,6 +59,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/kanchikavya/leetCode/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kanchikavya/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
