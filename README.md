@@ -71,6 +71,7 @@
 | [0013-roman-to-integer](https://github.com/kanchikavya/leetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kanchikavya/leetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kanchikavya/leetCode/tree/master/0060-permutation-sequence) |
+| [0172-factorial-trailing-zeroes](https://github.com/kanchikavya/leetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kanchikavya/leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kanchikavya/leetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kanchikavya/leetCode/tree/master/0258-add-digits) |
